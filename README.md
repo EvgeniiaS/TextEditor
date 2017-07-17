@@ -13,4 +13,4 @@ Other functionalities:
 - Word Paths game, which tries to find a path from one word to another with the restriction that it can only make one change
   at a time (letter permutation, letter insertion, letter deletion) and that whatever change it makes, it has to result in a real word.
   
-  The front-end code is developed by US San Diego Programming MOOC team.
+  The front-end code is developed by US San Diego Programming MOOC team (source: https://www.coursera.org/learn/data-structures-optimizing-performance).
